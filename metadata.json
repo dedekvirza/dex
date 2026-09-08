@@ -1,0 +1,6 @@
+{
+  "name": "Android DeX Desktop",
+  "description": "Lingkungan desktop Android DeX lengkap dengan multitasking multi-jendela, manajemen file cerdas, pengaturan sistem, dan pusat notifikasi terpadu untuk produktivitas profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
